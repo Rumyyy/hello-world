@@ -1,4 +1,2 @@
 # hello-world
-hello world, again.
-
-hi world
+puts 'hello there'
